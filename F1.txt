@@ -1,2 +1,0 @@
-Name :- SDP
-CLass:- TE
